@@ -38,5 +38,3 @@ Holocron eliminates the document hunt and tribal knowledge bottleneck in HVAC es
 - **QuoteSoft deep integration:** V1 uses export validation only
 - **Mobile interface:** Desktop-only workflow
 - **Automated takeoff:** QuoteSoft remains manual
-
-[Continue with all remaining sections through Section 18...]
